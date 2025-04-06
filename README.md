@@ -10,11 +10,12 @@ This project demonstrates simulating TurtleBot3 in a custom-built Gazebo environ
 ## 📹 Demo Videos
 
 ### 🗺️ Mapping the Environment (SLAM)
-[![TurtleBot3 SLAM Mapping](https://img.youtube.com/vi/7OxHPk5oFXc/0.jpg)](https://www.youtube.com/watch?v=7OxHPk5oFXc)  
+[![TurtleBot3 SLAM Mapping](https://img.youtube.com/vi/ei4HWBFNY_c/0.jpg)](https://youtu.be/ei4HWBFNY_c)  
 In this video, TurtleBot3 uses Cartographer SLAM to explore and create a 2D occupancy grid map in a custom Gazebo world.
 
+
 ### 🚗 Navigation Using Nav2
-[![TurtleBot3 Nav2 Navigation](https://img.youtube.com/vi/ei4HWBFNY_c/0.jpg)](https://youtu.be/ei4HWBFNY_c)  
+[![TurtleBot3 Nav2 Navigation](https://img.youtube.com/vi/7OxHPk5oFXc/0.jpg)](https://www.youtube.com/watch?v=7OxHPk5oFXc)  
 In this video, the robot uses the previously created map to autonomously navigate through the environment using ROS 2 Nav2 stack.
 
 ---
